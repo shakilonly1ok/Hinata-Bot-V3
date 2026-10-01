@@ -11,7 +11,7 @@ module.exports = {
                 name: "alldl",
                 aliases: ["download", "dl"],
                 version: "2.7",
-                author: "MahMUD",
+                author: "Shakilonly1🐸",
                 countDown: 10,
                 role: 0,
                 description: {
@@ -32,11 +32,11 @@ module.exports = {
         langs: {
                 en: {
                         noLink: "× Baby, please provide a valid video link or reply to one!",
-                        error: "× Download error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
+                        error: "× Download error: %1. Contact shakil for help.\n•WhatsApp: 01927610062"
                 },
                 vi: {
                         noLink: "× Bé ơi, vui lòng cung cấp liên kết video hợp lệ hoặc trả lời một liên kết!",
-                        error: "× Lỗi tải xuống: %1. Liên hệ MahMUD để được giúp đỡ.\n•WhatsApp: 01836298139"
+                        error: "× Lỗi tải xuống: %1. Liên hệ shakil để được giúp đỡ.\n•WhatsApp: 01927610062"
                 }
         },
 
