@@ -1,5 +1,5 @@
 {
-	"author": ["MahMUD"],
+	"author": ["shakil"],
 	"facebookAccount": {
 		"email": "",
 		"password": "",
@@ -13,7 +13,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "Hinata Bot",
+	"nickNameBot": "yukino",
 	"prefix": "!",
 	"adminOnly": {
 		"enable": false,
